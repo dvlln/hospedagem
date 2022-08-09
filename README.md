@@ -7,23 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Lembrete
+## Sobre
 
-- BAIXAR ALTERAÇÕES ANTES DE ENVIAR ALTERAÇÕES
-
-## Comandos após clonar o repósitorio
-
-
-- composer update
-- php artisan key:generate
-
-
-## Comandos para enviar para o git
-
-- git add .
-- git commit -m ""
-- git push -u origin main 
-
-## Comando para baixar as alterações feita por outros membros
-
-- git pull
+Desenvolvimento de um site para hospedagem em Laravel + adminLTE
